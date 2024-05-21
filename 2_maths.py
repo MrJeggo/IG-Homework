@@ -1,1 +1,4 @@
-#print 2
+# copy and paste
+a = int(input())
+b = int(input())
+print(a+b)
